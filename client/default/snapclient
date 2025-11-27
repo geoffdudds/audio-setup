@@ -1,0 +1,1 @@
+SNAPCLIENT_OPTS="--soundcard hw:CARD=Control,DEV=0"
